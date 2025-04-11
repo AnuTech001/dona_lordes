@@ -30986,7 +30986,7 @@ return A.yi(A.md(A.c([n,B.bu,B.iX,B.bu,m,B.bu,B.iX,B.bu,l,B.bu,o?A.BE(A.a6J(!0),
 A.qh.prototype={
 oB(a,b,c){var s=null
 return A.BE(A.c([A.a87(a,c,s,24),B.u7,A.nn(b,A.eN(s,s,B.cn,s,s,s,s,s,s,s,s,16,s,s,B.af,s,s,!0,s,s,s,s,s,s,s,s),s)],t.E),B.bo,B.fH)},
-U(a){var s=this,r=null,q="(44) 9 9874-5948",p="armazemdositio@hotmail.com.br",o=A.b6(B.c.ag(178.5),B.at.F()>>>16&255,B.at.F()>>>8&255,B.at.F()&255),n=A.a3J(B.bp,2),m=A.p1(12),l=A.BE(B.Ah,B.oo,B.cN),k=s.c,j=A.nn("Armaz\xe9m do S\xedtio - Qualidade Garantida\nAv. Rio Branco, 456, Centro, Loanda - PR",A.eN(r,r,B.cn,r,r,r,r,r,r,r,r,k?18:16,r,r,B.af,r,r,!0,r,r,r,r,r,r,r,r),B.c4),i=t.E
+U(a){var s=this,r=null,q="(44) 9 9999-9999",p="armazemdositio@hotmail.com.br",o=A.b6(B.c.ag(178.5),B.at.F()>>>16&255,B.at.F()>>>8&255,B.at.F()&255),n=A.a3J(B.bp,2),m=A.p1(12),l=A.BE(B.Ah,B.oo,B.cN),k=s.c,j=A.nn("Armaz\xe9m do S\xedtio - Qualidade Garantida\nAv. Rio Branco, 456, Centro, Loanda - PR",A.eN(r,r,B.cn,r,r,r,r,r,r,r,r,k?18:16,r,r,B.af,r,r,!0,r,r,r,r,r,r,r,r),B.c4),i=t.E
 return A.yi(A.md(A.c([l,B.u8,j,B.u8,k?A.BE(A.c([s.oB(B.je,q,B.bp),s.oB(B.jd,p,B.bO)],i),B.fG,B.cN):A.md(A.c([s.oB(B.je,q,B.bp),B.GG,s.oB(B.jd,p,B.bO)],i))],i)),new A.dX(o,r,n,m,r,r,B.aD),r,r,B.dz,r)}}
 A.qo.prototype={
 U(a){var s=null,r=A.b6(B.c.ag(178.5),B.at.F()>>>16&255,B.at.F()>>>8&255,B.at.F()&255),q=A.a3J(B.bp,2),p=A.p1(12)
