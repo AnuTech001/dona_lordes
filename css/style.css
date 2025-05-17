@@ -21,16 +21,3 @@
   display: inline-block; /* Para melhor controle de espaçamento */
   line-height: 1.3; /* Espaçamento entre as linhas similar ao Flutter */
 }
-
-/* Imagem de fundo - Versão Otimizada */
-body {
-  background-image: url("../Imagens/background.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-color: #f0f0f0; /* Cor de fallback */
-  min-height: 100vh;
-  margin: 0; /* Remove margens padrão */
-  font-family: sans-serif; /* Define fonte padrão */
-}
